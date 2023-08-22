@@ -1,6 +1,6 @@
-# clase-de-git-promo-u
+<h3 align="center">A passionate frontend developer from India</h3>
 
-Clase principal de git de la promo-u
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
